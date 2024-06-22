@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Set default username and password
-username="user"
+username="aminn"
 password="root"
 
 # Set default CRP value
-CRP=""
+CRP="DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0ATx3LY4PrK2pEUHz8dA9jOvnrejOPL_33t10YeP88ZiCI0GR95c3k9Pg5nZrXxYKn9jMsw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)"
 
 # Set default Pin value
-Pin="123456"
+Pin="654321"
 
 # Set default Autostart value
 Autostart=true
